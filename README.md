@@ -109,3 +109,84 @@ Arquivos
 - train.csv - dados de treino
 - test.csv - dados de teste
 - sample_submission.csv - exemplo de submissão em formato corretoa
+
+## sobre o overview
+
+Overview
+(English below)
+
+🚀 Desafio de Previsão de Sucesso de Startups
+Imagine que você foi contratado por uma das maiores aceleradoras do mundo. Sua missão? Desenvolver um modelo preditivo capaz de identificar quais startups apresentam maior probabilidade de se tornarem casos de sucesso no mercado.
+
+A aceleradora, que já lançou unicórnios e empresas líderes globais, busca otimizar seus investimentos e estratégias de aceleração, apostando nas startups certas e maximizando o impacto econômico.
+
+Você receberá uma base de dados com centenas de startups, incluindo informações sobre:
+
+📈 Histórico de captação de recursos
+🌍 Localização
+🏭 Setor de atuação
+🔗 Conexões estratégicas
+🏆 Marcos alcançados
+Seu desafio será usar esses dados para prever se uma startup terá sucesso ou não.
+
+🎯 Objetivo
+Criar um modelo de machine learning que preveja, com boa acurácia, se uma startup será bem-sucedida.
+Essa previsão apoiará investidores e aceleradoras na tomada de decisões mais estratégicas.
+
+📊 Dados Disponíveis
+A base contém informações de startups em arquivos separados para treino e teste:
+
+train.csv → conjunto de treinamento com startups + variável alvo (labels)
+test.csv → conjunto de teste (sem a coluna alvo)
+sample_submission.csv → modelo de submissão esperado
+🚀 Startup Success Prediction Challenge
+Imagine that you have been hired by one of the largest accelerators in the world. Your mission? To develop a predictive model capable of identifying which startups have the highest probability of becoming successful cases in the market.
+
+The accelerator, which has already launched unicorns and global market leaders, is seeking to optimize its investments and acceleration strategies by betting on the right startups and maximizing economic impact.
+
+You will receive a dataset with hundreds of startups, including information on:
+
+📈 Funding history
+🌍 Location
+🏭 Industry sector
+🔗 Strategic connections
+🏆 Milestones achieved
+Your challenge will be to use this data to predict whether a startup will succeed or not.
+
+🎯 Objective
+Create a machine learning model that can accurately predict whether a startup will be successful.
+This prediction will support investors and accelerators in making more strategic decisions.
+
+📊 Available Data
+The dataset includes information on startups, divided into separate training and test files:
+
+train.csv → training set with startups + target variable (labels)
+test.csv → test set (without the target column)
+sample_submission.csv → expected submission format
+Start
+
+a month ago
+Close
+14 hours to go
+Description
+🎓 Atividade Individual de Predição
+Nesta atividade, cada participante terá acesso ao mesmo conjunto de dados estruturado, representando um problema real de predição.
+O desafio consiste em desenvolver modelos capazes de gerar previsões precisas, que serão avaliadas de acordo com uma métrica específica definida pelos professores.
+
+⚙️ Correção
+A correção será realizada automaticamente pela plataforma Kaggle, com base nos padrões de submissão definidos na competição.
+
+👉 Atenção: é fundamental que todas as submissões sigam exatamente o formato estabelecido, pois qualquer desvio pode resultar em erro ou desclassificação.
+
+Em situações específicas (como inconsistências, problemas técnicos ou suspeitas de irregularidade), a correção poderá ser revisada manualmente pelos professores.
+
+🎓 Individual Prediction Activity
+In this activity, each participant will have access to the same structured dataset, representing a real prediction problem.
+The challenge is to develop models capable of generating accurate predictions, which will be evaluated according to a specific metric defined by the instructors.
+
+⚙️ Evaluation
+The evaluation will be carried out automatically by the Kaggle platform, based on the submission standards defined in the competition.
+
+👉 Attention: it is essential that all submissions strictly follow the required format, as any deviation may result in errors or disqualification.
+
+In specific situations (such as inconsistencies, technical issues, or suspected irregularities), the evaluation may be manually reviewed by the instructors.
